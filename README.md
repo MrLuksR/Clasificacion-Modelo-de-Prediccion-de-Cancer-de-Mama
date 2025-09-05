@@ -29,3 +29,14 @@ Perímetro | Radio | Área | Diagnóstico
 
 ### Ejemplos de tumores malignos
 Estos resultados comienzan a aparecer desde que se empiezas a elevar los valores de dichas variables:
+Perímetro | Radio | Área | Diagnóstico
+--- | --- | --- | ---
+30.23 | 45.80 | 32.32 | Maligno
+35.23 | 43.80 | 30.32 | Maligno
+44.40 | 47.95 | 35.20 | Maligno
+40.20 | 35.95 | 111.10 | Maligno
+
+## Conclusión
+La proximación al resultado sobre si un tumor es maligno o benigno está directamente relacionado con
+el tamaño que este posea. Cada variable tomada representa las medidas y tamaño del mismo en diferentes magnitudes,
+lo que ayuda a determinar si el mismo puede ser maligno o benigno en base a la predicción dentro del modelo.
