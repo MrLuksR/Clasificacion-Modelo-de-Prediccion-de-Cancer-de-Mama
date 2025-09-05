@@ -9,7 +9,7 @@ maligno o benigno.
 ## Pruebas a partir de variables seleccionadas
 Las tres variables seleccionadas estan relacionadas al tamaño del tumor (perímetro, radio, y área).
 La característica principal se refiere a que: mayor tamaño, más posibilidad de que el tumor sea
-maligno y la variable más significativa es el área. Los datos ingresados fueron los siguientes.
+maligno. Los datos ingresados fueron los siguientes:
 
 Perímetro | Radio | Área | Diagnóstico
 ---  |  ---  | --- | ---
@@ -19,9 +19,13 @@ Perímetro | Radio | Área | Diagnóstico
 Dentro del caso anterior se puede observar que el área del tumor cambió solo 10 centímetros y esto
 fué suficiente para determinar que el mismo es maligno.
 
-## Más ejemplos sobre topes de tumores benignos
+### Más ejemplos sobre topes de tumores benignos
 Perímetro | Radio | Área | Diagnóstico
 --- | --- | --- | ---
 50.90 | 20.78 | 90.00 | Benigno
 50.43 | 30.78 | 50.30 | Benigno
 45.33 | 32.78 | 30.50 | Benigno
+29.22 | 31.27 | 29.42 | Benigno
+
+### Ejemplos de tumores malignos
+Estos resultados comienzan a aparecer desde que se empiezas a elevar los valores de dichas variables:
