@@ -12,6 +12,7 @@ La característica principal se refiere a que: mayor tamaño, más posibilidad d
 maligno y la variable más significativa es el área. Los datos ingresados fueron los siguientes.
 
 Perímetro | Radio | Área | Diagnóstico
+---  |  ---  | --- | ---
 80.90 | 10.99 | 120 | Benigno
 80.90 | 10.99 | 130 | Maligno
 
@@ -20,6 +21,7 @@ fué suficiente para determinar que el mismo es maligno.
 
 ## Más ejemplos sobre topes de tumores benignos
 Perímetro | Radio | Área | Diagnóstico
+--- | --- | --- | ---
 50.90 | 20.78 | 90.00 | Benigno
 50.43 | 30.78 | 50.30 | Benigno
 45.33 | 32.78 | 30.50 | Benigno
